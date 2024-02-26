@@ -1,3 +1,3 @@
-Im from local repo
+Im from local repo added with new lines
 Hi Im new file
 Modified in UI/...
